@@ -1,0 +1,5 @@
+1.) -o outputs to file
+2.) -T transfers file or text to server
+3.) -L follows redirects (really useful nowadays)
+4.) -F Multi file uploads
+5.) -X specify request command
